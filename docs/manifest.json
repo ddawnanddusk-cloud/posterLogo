@@ -1,1 +1,9 @@
-{ "posterWidth": 3, "posterHeight": 2, "basePath": "photos/", "images": [ { "id": "img000", "file": "photos/postoure_chrispoland.png", "caption": "Postoure ChrisPoland", "order": 0 } ] }
+{
+  "posterWidth": 3,
+  "posterHeight": 2,
+  "basePath": "photos/",
+  "images": [
+    { "id": "img000", "file": "photos/postoure_chrispoland.png", "caption": "Postoure ChrisPoland - primary", "order": 0 },
+    { "id": "img001", "file": "photos/placeholder.svg", "caption": "Placeholder", "order": 1 }
+  ]
+}
