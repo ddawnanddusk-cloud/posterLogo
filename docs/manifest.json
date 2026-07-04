@@ -3,6 +3,6 @@
   "posterHeight": 2,
   "basePath": "photos/",
   "images": [
-    { "id": "img001", "file": "photos/postoure_chrispoland.png", "caption": "photos/postoure_chrispoland.png", "order": 1 }
+    { "id": "img001", "file": "photos/Postoure ChrisPoland.png", "caption": "Postoure ChrisPoland", "order": 1 }
   ]
 }
