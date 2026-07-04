@@ -13,4 +13,4 @@ https://ddawnanddusk-cloud.github.io/posterLogo/
 Notes
 - This scaffold includes a manifest.json and a simple browser viewer (index.html).
 - Git LFS is recommended for many or large images; a .gitattributes file was added at repo root to track common image types with LFS.
-
+git add docs/README.md git commit -m "Trigger Pages rebuild: touch docs/README.md" git push origin main
